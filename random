@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<script type="text/javascript">
+//alert(11);
+var random = Math.floor(Math.random()*10+1); //1-10
+	//alert(random);
+	if(random == 1){
+		alert("赠送浩哥100块");
+	}else if(random == 2){
+		alert("好想见李园浩一面啊！");
+	}else if(random == 3){
+		alert("急需李园浩签名那又有？！");
+	}else if(random == 4){
+		alert("想你了！");
+	}else if(random == 5){
+		alert("端午节快乐！");
+	}else if(random == 6){
+		alert("哦吧哦吧");
+	}else if(random == 7){
+		alert("这条评论下条肯定中奖");
+	}else if(random == 8){
+		alert("欢迎访问 www.newhelloworld.com");
+	}else if(random == 9){
+		alert("举高高");
+	}else if(random == 10){
+		alert("山高水远，有缘再见。");
+	}else{
+		alert("哈哈哈哈");
+	}
+
+</script>
+</body>
+</html>
